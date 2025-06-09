@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Delwende Kabre
+# 👋 Hi, I'm Delwende Monique Kabre
 
 I'm a **Business Intelligence Analyst** with a passion for turning data into clear, actionable insights that support smarter decisions and business growth. My work sits at the intersection of data analysis, dashboard design, and strategic storytelling — helping teams and clients uncover patterns, solve problems, and measure what matters.
 
